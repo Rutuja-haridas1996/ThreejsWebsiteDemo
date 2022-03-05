@@ -1,0 +1,11 @@
+Model Information:
+* title:	Remdesivir
+* source:	https://sketchfab.com/3d-models/remdesivir-bf7ed7710cac473cad9bd6768659ab23
+* author:	yutong (https://sketchfab.com/yutong)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Remdesivir" (https://sketchfab.com/3d-models/remdesivir-bf7ed7710cac473cad9bd6768659ab23) by yutong (https://sketchfab.com/yutong) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
